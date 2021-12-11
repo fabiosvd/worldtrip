@@ -11,11 +11,11 @@ export default function Banner() {
       bgSize="cover"
     >
       <Flex
-        justify={['center', 'space-between']}
-        align="center"
         w="100%"
         mx="auto"
         px={['4', '10', '15', '20', '36']}
+        justify={['center', 'space-between']}
+        align="center"
       >
         <div>
           <Heading
