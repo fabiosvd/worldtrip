@@ -1,2 +1,2 @@
 # worldtrip
-WorldTrip Project. In development
+WorldTrip App
